@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Rohit Sharma",
+    "team": "India",
+    "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/rohit.jpg"
+  },
+  {
+    "name": "Virat Kohli",
+    "team": "India",
+    "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/virat.jpg"
+  },
+  {
+    "name": "Shubman Gill",
+    "team": "India",
+    "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/gill.jpg"
+  }
+]
