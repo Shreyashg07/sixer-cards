@@ -39,7 +39,7 @@
     "team": "India"
     "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/shreyas iyer.jpg"
   },
-{
+  {
   "name": "Sai Sudharsan",
   "team": "India",
   "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/sai sudharsan.jpg"
@@ -313,9 +313,461 @@
   "name": "Varun Aaron",
   "team": "India",
   "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/varun aaron.jpg"
+},
+{
+  "name": "Varun Aaron",
+  "team": "India",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/varun aaron.jpg"
+},
+{
+  "name": "Steve Smith",
+  "team": "Australia",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/steve smith.jpg"
+},
+{
+  "name": "Marnus Labuschagne",
+  "team": "Australia",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/marnus labuschagne.jpg"
+},
+{
+  "name": "Travis Head",
+  "team": "Australia",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/travis head.jpg"
+},
+{
+  "name": "Usman Khawaja",
+  "team": "Australia",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/usman khawaja.jpg"
+},
+{
+  "name": "Cameron Green",
+  "team": "Australia",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/cameron green.jpg"
+},
+{
+  "name": "Josh Inglis",
+  "team": "Australia",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/josh inglis.jpg"
+},
+{
+  "name": "Matt Renshaw",
+  "team": "Australia",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/matt renshaw.jpg"
+},
+{
+  "name": "Marcus Harris",
+  "team": "Australia",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/marcus harris.jpg"
+},
+{
+  "name": "Alex Carey",
+  "team": "Australia",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/alex carey.jpg"
+},
+{
+  "name": "Glenn Maxwell",
+  "team": "Australia",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/glenn maxwell.jpg"
+},
+{
+  "name": "Marcus Stoinis",
+  "team": "Australia",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/marcus stoinis.jpg"
+},
+{
+  "name": "Mitchell Marsh",
+  "team": "Australia",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/mitchell marsh.jpg"
+},
+{
+  "name": "Ashton Agar",
+  "team": "Australia",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/ashton agar.jpg"
+},
+{
+  "name": "Aaron Hardie",
+  "team": "Australia",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/aaron hardie.jpg"
+},
+{
+  "name": "Pat Cummins",
+  "team": "Australia",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/pat cummins.jpg"
+},
+{
+  "name": "Mitchell Starc",
+  "team": "Australia",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/mitchell starc.jpg"
+},
+{
+  "name": "Josh Hazlewood",
+  "team": "Australia",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/josh hazlewood.jpg"
+},
+{
+  "name": "Nathan Ellis",
+  "team": "Australia",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/nathan ellis.jpg"
+},
+{
+  "name": "Sean Abbott",
+  "team": "Australia",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/sean abbott.jpg"
+},
+{
+  "name": "Jhye Richardson",
+  "team": "Australia",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/jhye richardson.jpg"
+},
+{
+  "name": "Lance Morris",
+  "team": "Australia",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/lance morris.jpg"
+},
+{
+  "name": "Michael Neser",
+  "team": "Australia",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/michael neser.jpg"
+},
+{
+  "name": "Adam Zampa",
+  "team": "Australia",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/adam zampa.jpg"
+},
+{
+  "name": "Nathan Lyon",
+  "team": "Australia",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/nathan lyon.jpg"
+},
+{
+  "name": "Todd Murphy",
+  "team": "Australia",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/todd murphy.jpg"
+},
+{
+  "name": "Jake Fraser McGurk",
+  "team": "Australia",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/jake fraser mcgurk.jpg"
+},
+{
+  "name": "Cooper Connolly",
+  "team": "Australia",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/cooper connolly.jpg"
+},
+{
+  "name": "Scott Boland",
+  "team": "Australia",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/scott boland.jpg"
+},
+{
+  "name": "Aiden Markram",
+  "team": "South Africa",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/aiden markram.jpg"
+},
+{
+  "name": "Temba Bavuma",
+  "team": "South Africa",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/temba bavuma.jpg"
+},
+{
+  "name": "Rassie van der Dussen",
+  "team": "South Africa",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/rassie van der dussen.jpg"
+},
+{
+  "name": "David Miller",
+  "team": "South Africa",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/david miller.jpg"
+},
+{
+  "name": "Tony de Zorzi",
+  "team": "South Africa",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/tony de zorzi.jpg"
+},
+{
+  "name": "Ryan Rickelton",
+  "team": "South Africa",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/ryan rickelton.jpg"
+},
+{
+  "name": "Quinton de Kock",
+  "team": "South Africa",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/quinton de kock.jpg"
+},
+{
+  "name": "Heinrich Klaasen",
+  "team": "South Africa",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/heinrich klaasen.jpg"
+},
+{
+  "name": "Kyle Verreynne",
+  "team": "South Africa",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/kyle verreynne.jpg"
+},
+{
+  "name": "Marco Jansen",
+  "team": "South Africa",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/marco jansen.jpg"
+},
+{
+  "name": "Wiaan Mulder",
+  "team": "South Africa",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/wiaan mulder.jpg"
+},
+{
+  "name": "Andile Phehlukwayo",
+  "team": "South Africa",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/andile phehlukwayo.jpg"
+},
+{
+  "name": "Kagiso Rabada",
+  "team": "South Africa",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/kagiso rabada.jpg"
+},
+{
+  "name": "Anrich Nortje",
+  "team": "South Africa",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/anrich nortje.jpg"
+},
+{
+  "name": "Lungi Ngidi",
+  "team": "South Africa",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/lungi ngidi.jpg"
+},
+{
+  "name": "Gerald Coetzee",
+  "team": "South Africa",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/gerald coetzee.jpg"
+},
+{
+  "name": "Keshav Maharaj",
+  "team": "South Africa",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/keshav maharaj.jpg"
+},
+{
+  "name": "Tabraiz Shamsi",
+  "team": "South Africa",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/tabraiz shamsi.jpg"
+},
+{
+  "name": "Dewald Brevis",
+  "team": "South Africa",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/dewald brevis.jpg"
+},
+{
+  "name": "Donovan Ferreira",
+  "team": "South Africa",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/donovan ferreira.jpg"
+},
+{
+  "name": "Tristan Stubbs",
+  "team": "South Africa",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/tristan stubbs.jpg"
+},
+{
+  "name": "Matthew Breetzke",
+  "team": "South Africa",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/matthew breetzke.jpg"
+},
+{
+  "name": "Corbin Bosch",
+  "team": "South Africa",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/corbin bosch.jpg"
+},
+{
+  "name": "Joe Root",
+  "team": "England",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/joe root.jpg"
+},
+{
+  "name": "Harry Brook",
+  "team": "England",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/harry brook.jpg"
+},
+{
+  "name": "Zak Crawley",
+  "team": "England",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/zak crawley.jpg"
+},
+{
+  "name": "Ben Duckett",
+  "team": "England",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/ben duckett.jpg"
+},
+{
+  "name": "Dawid Malan",
+  "team": "England",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/dawid malan.jpg"
+},
+{
+  "name": "Jonny Bairstow",
+  "team": "England",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/jonny bairstow.jpg"
+},
+{
+  "name": "Will Jacks",
+  "team": "England",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/will jacks.jpg"
+},
+{
+  "name": "Tom Banton",
+  "team": "England",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/tom banton.jpg"
+},
+{
+  "name": "Phil Salt",
+  "team": "England",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/phil salt.jpg"
+},
+{
+  "name": "Dan Lawrence",
+  "team": "England",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/dan lawrence.jpg"
+},
+{
+  "name": "James Vince",
+  "team": "England",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/james vince.jpg"
+},
+{
+  "name": "Haseeb Hameed",
+  "team": "England",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/haseeb hameed.jpg"
+},
+{
+  "name": "Ollie Pope",
+  "team": "England",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/ollie pope.jpg"
+},
+{
+  "name": "Jos Buttler",
+  "team": "England",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/jos buttler.jpg"
+},
+{
+  "name": "Ben Foakes",
+  "team": "England",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/ben foakes.jpg"
+},
+{
+  "name": "Sam Billings",
+  "team": "England",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/sam billings.jpg"
+},
+{
+  "name": "Ben Stokes",
+  "team": "England",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/ben stokes.jpg"
+},
+{
+  "name": "Sam Curran",
+  "team": "England",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/sam curran.jpg"
+},
+{
+  "name": "Tom Curran",
+  "team": "England",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/tom curran.jpg"
+},
+{
+  "name": "Chris Woakes",
+  "team": "England",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/chris woakes.jpg"
+},
+{
+  "name": "Moeen Ali",
+  "team": "England",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/moeen ali.jpg"
+},
+{
+  "name": "Liam Livingstone",
+  "team": "England",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/liam livingstone.jpg"
+},
+{
+  "name": "Will Smeed",
+  "team": "England",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/will smeed.jpg"
+},
+{
+  "name": "Jacob Bethell",
+  "team": "England",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/jacob bethell.jpg"
+},
+{
+  "name": "James Anderson",
+  "team": "England",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/james anderson.jpg"
+},
+{
+  "name": "Mark Wood",
+  "team": "England",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/mark wood.jpg"
+},
+{
+  "name": "Jofra Archer",
+  "team": "England",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/jofra archer.jpg"
+},
+{
+  "name": "Ollie Robinson",
+  "team": "England",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/ollie robinson.jpg"
+},
+{
+  "name": "Chris Jordan",
+  "team": "England",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/chris jordan.jpg"
+},
+{
+  "name": "Reece Topley",
+  "team": "England",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/reece topley.jpg"
+},
+{
+  "name": "Saqib Mahmood",
+  "team": "England",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/saqib mahmood.jpg"
+},
+{
+  "name": "Brydon Carse",
+  "team": "England",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/brydon carse.jpg"
+},
+{
+  "name": "Matthew Potts",
+  "team": "England",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/matthew potts.jpg"
+},
+{
+  "name": "Olly Stone",
+  "team": "England",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/olly stone.jpg"
+},
+{
+  "name": "Tymal Mills",
+  "team": "England",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/tymal mills.jpg"
+},
+{
+  "name": "Adil Rashid",
+  "team": "England",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/adil rashid.jpg"
+},
+{
+  "name": "Jack Leach",
+  "team": "England",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/jack leach.jpg"
+},
+{
+  "name": "Rehan Ahmed",
+  "team": "England",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/rehan ahmed.jpg"
 }
+  
 
 ]
+
 
 
 
