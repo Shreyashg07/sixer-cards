@@ -1,12 +1,14 @@
 [
   {
     "name": "Rohit Sharma",
-    "team": "India",
-    "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/rohit.jpg"
+    "team": "MI",
+    "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/MI/rohit.jpg"
+    "category": "IPL26"
   },
   {
     "name": "Virat Kohli",
     "team": "India",
-    "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/cards/virat.jpg"
+    "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/RCB/virat.jpg"
+    "category": "IPL26"
   },
 ]
