@@ -1,14 +1,1498 @@
 [
   {
-    "name": "Rohit Sharma",
-    "team": "MI",
-    "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/MI/rohit.jpg"
-    "category": "IPL26"
-  },
-  {
-    "name": "Virat Kohli",
-    "team": "India",
-    "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/RCB/virat.jpg"
-    "category": "IPL26"
-  },
+  "name": "MS Dhoni",
+  "team": "Chennai Super Kings",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/CSK/msdhoniipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Ruturaj Gaikwad",
+  "team": "Chennai Super Kings",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/CSK/ruturajgaikwadipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Sanju Samson",
+  "team": "Chennai Super Kings",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/CSK/sanjusamsonipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Dewald Brevis",
+  "team": "Chennai Super Kings",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/CSK/dewaldbrevisipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Ayush Mhatre",
+  "team": "Chennai Super Kings",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/CSK/ayushmhatreipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Urvil Patel",
+  "team": "Chennai Super Kings",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/CSK/urvilpatelipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Shivam Dube",
+  "team": "Chennai Super Kings",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/CSK/shivamdubeipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Noor Ahmad",
+  "team": "Chennai Super Kings",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/CSK/noorahmadipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Shreyas Gopal",
+  "team": "Chennai Super Kings",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/CSK/shreyasgopalipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Khaleel Ahmed",
+  "team": "Chennai Super Kings",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/CSK/khaleelahmedipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Nathan Ellis",
+  "team": "Chennai Super Kings",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/CSK/nathanellisipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Ramakrishna Ghosh",
+  "team": "Chennai Super Kings",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/CSK/ramakrishnaghoshipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Gurjapneet Singh",
+  "team": "Chennai Super Kings",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/CSK/gurjapneetsinghipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Mukesh Choudhary",
+  "team": "Chennai Super Kings",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/CSK/mukeshchoudharyipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Anshul Kamboj",
+  "team": "Chennai Super Kings",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/CSK/anshulkambojipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Jamie Overton",
+  "team": "Chennai Super Kings",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/CSK/jamieovertonipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Akeal Hosein",
+  "team": "Chennai Super Kings",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/CSK/akealhoseinipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Matt Henry",
+  "team": "Chennai Super Kings",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/CSK/matthenryipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Zakary Foulkes",
+  "team": "Chennai Super Kings",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/CSK/zakaryfoulkesipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Matthew Short",
+  "team": "Chennai Super Kings",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/CSK/matthewshortipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Rahul Chahar",
+  "team": "Chennai Super Kings",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/CSK/rahulchaharipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Sarfaraz Khan",
+  "team": "Chennai Super Kings",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/CSK/sarfarazkhanipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Aman Khan",
+  "team": "Chennai Super Kings",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/CSK/amankhanipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Kartik Sharma",
+  "team": "Chennai Super Kings",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/CSK/kartiksharmaipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Prashant Veer",
+  "team": "Chennai Super Kings",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/CSK/prashantveeripl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Axar Patel",
+  "team": "Delhi Capitals",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/DC/axarpatelipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "KL Rahul",
+  "team": "Delhi Capitals",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/DC/klrahulipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "David Miller",
+  "team": "Delhi Capitals",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/DC/davidmilleripl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Ben Duckett",
+  "team": "Delhi Capitals",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/DC/benduckettipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Pathum Nissanka",
+  "team": "Delhi Capitals",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/DC/pathumnissankaipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Prithvi Shaw",
+  "team": "Delhi Capitals",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/DC/prithvishawipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Karun Nair",
+  "team": "Delhi Capitals",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/DC/karunnairipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Nitish Rana",
+  "team": "Delhi Capitals",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/DC/nitishranaipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Sameer Rizvi",
+  "team": "Delhi Capitals",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/DC/sameerrizviipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Sahil Parakh",
+  "team": "Delhi Capitals",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/DC/sahilparakhipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Tristan Stubbs",
+  "team": "Delhi Capitals",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/DC/tristanstubbsipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Abishek Porel",
+  "team": "Delhi Capitals",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/DC/abishekporelipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Ashutosh Sharma",
+  "team": "Delhi Capitals",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/DC/ashutoshsharmaipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Ajay Mandal",
+  "team": "Delhi Capitals",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/DC/ajaymandalipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Auqib Nabi",
+  "team": "Delhi Capitals",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/DC/auqibnabiipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Madhav Tiwari",
+  "team": "Delhi Capitals",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/DC/madhavtiwariipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Mitchell Starc",
+  "team": "Delhi Capitals",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/DC/mitchellstarcipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "T Natarajan",
+  "team": "Delhi Capitals",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/DC/tnatarajanipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Dushmantha Chameera",
+  "team": "Delhi Capitals",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/DC/dushmanthachameeraipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Mukesh Kumar",
+  "team": "Delhi Capitals",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/DC/mukeshkumaripl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Lungi Ngidi",
+  "team": "Delhi Capitals",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/DC/lungingidiipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Kyle Jamieson",
+  "team": "Delhi Capitals",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/DC/kylejamiesonipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Kuldeep Yadav",
+  "team": "Delhi Capitals",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/DC/kuldeepyadavipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Vipraj Nigam",
+  "team": "Delhi Capitals",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/DC/viprajnigamipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Tripurana Vijay",
+  "team": "Delhi Capitals",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/DC/tripuranavijayipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Shubman Gill",
+  "team": "Gujarat Titans",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/GT/shubmangillipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Sai Sudharsan",
+  "team": "Gujarat Titans",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/GT/saisudharsanipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Jos Buttler",
+  "team": "Gujarat Titans",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/GT/josbuttleripl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Kumar Kushagra",
+  "team": "Gujarat Titans",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/GT/kumarkushagraipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Anuj Rawat",
+  "team": "Gujarat Titans",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/GT/anujrawatipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Nishant Sindhu",
+  "team": "Gujarat Titans",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/GT/nishantsindhuipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Washington Sundar",
+  "team": "Gujarat Titans",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/GT/washingtonsundaripl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Arshad Khan",
+  "team": "Gujarat Titans",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/GT/arshadkhanipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Shahrukh Khan",
+  "team": "Gujarat Titans",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/GT/shahrukhkhanipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Rahul Tewatia",
+  "team": "Gujarat Titans",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/GT/rahultewatiaipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Kagiso Rabada",
+  "team": "Gujarat Titans",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/GT/kagisorabadaipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Mohammed Siraj",
+  "team": "Gujarat Titans",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/GT/mohammedsirajipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Prasidh Krishna",
+  "team": "Gujarat Titans",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/GT/prasidhkrishnaipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Ishant Sharma",
+  "team": "Gujarat Titans",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/GT/ishantsharmaipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Gurnoor Singh Brar",
+  "team": "Gujarat Titans",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/GT/gurnoorsinghbraripl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Rashid Khan",
+  "team": "Gujarat Titans",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/GT/rashidkhanipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Manav Suthar",
+  "team": "Gujarat Titans",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/GT/manavsutharipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Sai Kishore",
+  "team": "Gujarat Titans",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/GT/saikishoreipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Jayant Yadav",
+  "team": "Gujarat Titans",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/GT/jayantyadavipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Glenn Phillips",
+  "team": "Gujarat Titans",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/GT/glennphillipsipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Jason Holder",
+  "team": "Gujarat Titans",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/GT/jasonholderipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Tom Banton",
+  "team": "Gujarat Titans",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/GT/tombantonipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Ashok Sharma",
+  "team": "Gujarat Titans",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/GT/ashoksharmaipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Prithvi Raj Yarra",
+  "team": "Gujarat Titans",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/GT/prithvirajyarraipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Luke Wood",
+  "team": "Gujarat Titans",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/GT/lukewoodipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Ajinkya Rahane",
+  "team": "Kolkata Knight Riders",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/KKR/ajinkyarahaneipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Rinku Singh",
+  "team": "Kolkata Knight Riders",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/KKR/rinkusinghipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Angkrish Raghuvanshi",
+  "team": "Kolkata Knight Riders",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/KKR/angkrishraghuvanshiipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Manish Pandey",
+  "team": "Kolkata Knight Riders",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/KKR/manishpandeyipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Rovman Powell",
+  "team": "Kolkata Knight Riders",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/KKR/rovmanpowellipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Sunil Narine",
+  "team": "Kolkata Knight Riders",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/KKR/sunilnarineipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Anukul Roy",
+  "team": "Kolkata Knight Riders",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/KKR/anukulroyipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Ramandeep Singh",
+  "team": "Kolkata Knight Riders",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/KKR/ramandeepsinghipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Cameron Green",
+  "team": "Kolkata Knight Riders",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/KKR/camerongreenipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Rachin Ravindra",
+  "team": "Kolkata Knight Riders",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/KKR/rachinravindraipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Finn Allen",
+  "team": "Kolkata Knight Riders",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/KKR/finnallenipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Tim Seifert",
+  "team": "Kolkata Knight Riders",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/KKR/timseifertipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Tejasvi Singh",
+  "team": "Kolkata Knight Riders",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/KKR/tejasvisinghipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Rahul Tripathi",
+  "team": "Kolkata Knight Riders",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/KKR/rahultripathiipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Matheesha Pathirana",
+  "team": "Kolkata Knight Riders",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/KKR/matheeshapathiranaipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Vaibhav Arora",
+  "team": "Kolkata Knight Riders",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/KKR/vaibhavaroraipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Harshit Rana",
+  "team": "Kolkata Knight Riders",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/KKR/harshitranaipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Umran Malik",
+  "team": "Kolkata Knight Riders",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/KKR/umranmalikipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Akash Deep",
+  "team": "Kolkata Knight Riders",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/KKR/akashdeepipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Kartik Tyagi",
+  "team": "Kolkata Knight Riders",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/KKR/kartiktyagiipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Varun Chakravarthy",
+  "team": "Kolkata Knight Riders",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/KKR/varunchakravarthyipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Prashant Solanki",
+  "team": "Kolkata Knight Riders",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/KKR/prashantsolankiipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Sarthak Ranjan",
+  "team": "Kolkata Knight Riders",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/KKR/sarthakranjanipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Daksh Kamra",
+  "team": "Kolkata Knight Riders",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/KKR/dakshkamraipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Rishabh Pant",
+  "team": "Lucknow Super Giants",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/LSG/rishabhpantipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Nicholas Pooran",
+  "team": "Lucknow Super Giants",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/LSG/nicholaspooranipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Aiden Markram",
+  "team": "Lucknow Super Giants",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/LSG/aidenmarkramipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Mitchell Marsh",
+  "team": "Lucknow Super Giants",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/LSG/mitchellmarshipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Abdul Samad",
+  "team": "Lucknow Super Giants",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/LSG/abdulsamadipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Shahbaz Ahmed",
+  "team": "Lucknow Super Giants",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/LSG/shahbazahmedipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Arshin Kulkarni",
+  "team": "Lucknow Super Giants",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/LSG/arshinkulkarniipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Wanindu Hasaranga",
+  "team": "Lucknow Super Giants",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/LSG/waninduhasarangaipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Josh Inglis",
+  "team": "Lucknow Super Giants",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/LSG/joshinglisipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Mukul Choudhary",
+  "team": "Lucknow Super Giants",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/LSG/mukulchoudharyipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Akshat Raghuwanshi",
+  "team": "Lucknow Super Giants",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/LSG/akshatraghuwanshiipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Ayush Badoni",
+  "team": "Lucknow Super Giants",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/LSG/ayushbadoniipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Himmat Singh",
+  "team": "Lucknow Super Giants",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/LSG/himmatsinghipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Matthew Breetzke",
+  "team": "Lucknow Super Giants",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/LSG/matthewbreetzkeipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Mohammed Shami",
+  "team": "Lucknow Super Giants",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/LSG/mohammedshamiipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Anrich Nortje",
+  "team": "Lucknow Super Giants",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/LSG/anrichnortjeipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Avesh Khan",
+  "team": "Lucknow Super Giants",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/LSG/aveshkhanipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Mayank Yadav",
+  "team": "Lucknow Super Giants",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/LSG/mayankyadavipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Mohsin Khan",
+  "team": "Lucknow Super Giants",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/LSG/mohsinkhanipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Prince Yadav",
+  "team": "Lucknow Super Giants",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/LSG/princeyadavipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Akash Singh",
+  "team": "Lucknow Super Giants",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/LSG/akashsinghipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Manimaran Siddharth",
+  "team": "Lucknow Super Giants",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/LSG/manimaransiddharthipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Digvesh Singh Rathi",
+  "team": "Lucknow Super Giants",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/LSG/digveshsinghrathiipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Naman Tiwari",
+  "team": "Lucknow Super Giants",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/LSG/namantiwariipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Arjun Tendulkar",
+  "team": "Lucknow Super Giants",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/LSG/arjuntendulkaripl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Rohit Sharma",
+  "team": "Mumbai Indians",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/MI/rohitsharmaipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Hardik Pandya",
+  "team": "Mumbai Indians",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/MI/hardikpandyaipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Suryakumar Yadav",
+  "team": "Mumbai Indians",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/MI/suryakumaryadavipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Tilak Varma",
+  "team": "Mumbai Indians",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/MI/tilakvarmaipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Ryan Rickleton",
+  "team": "Mumbai Indians",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/MI/ryanrickletonipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Robin Minz",
+  "team": "Mumbai Indians",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/MI/robinminzipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Naman Dhir",
+  "team": "Mumbai Indians",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/MI/namandhiripl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Jasprit Bumrah",
+  "team": "Mumbai Indians",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/MI/jaspritbumrahipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Trent Boult",
+  "team": "Mumbai Indians",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/MI/trentboultipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Corbin Bosch",
+  "team": "Mumbai Indians",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/MI/corbinboschipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Mitchell Santner",
+  "team": "Mumbai Indians",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/MI/mitchellsantneripl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Allah Ghafanzar",
+  "team": "Mumbai Indians",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/MI/allahghafanzaripl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Ashwani Kumar",
+  "team": "Mumbai Indians",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/MI/ashwanikumaripl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Deepak Chahar",
+  "team": "Mumbai Indians",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/MI/deepakchaharipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Raghu Sharma",
+  "team": "Mumbai Indians",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/MI/raghusharmaipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Will Jacks",
+  "team": "Mumbai Indians",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/MI/willjacksipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Raj Angad Bawa",
+  "team": "Mumbai Indians",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/MI/rajangadbawaipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Shardul Thakur",
+  "team": "Mumbai Indians",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/MI/shardulthakuripl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Sherfane Rutherford",
+  "team": "Mumbai Indians",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/MI/sherfanerutherfordipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Mayank Markande",
+  "team": "Mumbai Indians",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/MI/mayankmarkandeipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Quinton de Kock",
+  "team": "Mumbai Indians",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/MI/quintondekockipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Danish Malewar",
+  "team": "Mumbai Indians",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/MI/danishmalewaripl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Mohammed Izhar",
+  "team": "Mumbai Indians",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/MI/mohammedizharipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Atharva Ankolekar",
+  "team": "Mumbai Indians",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/MI/atharvaankolekaripl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Mayank Rawat",
+  "team": "Mumbai Indians",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/MI/mayankrawatipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Shreyas Iyer",
+  "team": "Punjab Kings",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/PBKS/shreyasiyeripl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Prabhsimran Singh",
+  "team": "Punjab Kings",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/PBKS/prabhsimransinghipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Shashank Singh",
+  "team": "Punjab Kings",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/PBKS/shashanksinghipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Nehal Wadhera",
+  "team": "Punjab Kings",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/PBKS/nehalwadheraipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Priyansh Arya",
+  "team": "Punjab Kings",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/PBKS/priyansharyaipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Marcus Stoinis",
+  "team": "Punjab Kings",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/PBKS/marcusstoinisipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Azmatullah Omarzai",
+  "team": "Punjab Kings",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/PBKS/azmatullahomarzaiipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Marco Jansen",
+  "team": "Punjab Kings",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/PBKS/marcojansenipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Harpreet Brar",
+  "team": "Punjab Kings",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/PBKS/harpreetbraripl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Yuzvendra Chahal",
+  "team": "Punjab Kings",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/PBKS/yuzvendrachahalipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Arshdeep Singh",
+  "team": "Punjab Kings",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/PBKS/arshdeepsinghipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Musheer Khan",
+  "team": "Punjab Kings",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/PBKS/musheerkhanipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Pyla Avinash",
+  "team": "Punjab Kings",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/PBKS/pylaavinashipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Harnoor Singh Pannu",
+  "team": "Punjab Kings",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/PBKS/harnoorsinghpannuipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Suryansh Shedge",
+  "team": "Punjab Kings",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/PBKS/suryanshshedgeipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Mitchell Owen",
+  "team": "Punjab Kings",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/PBKS/mitchellowenipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Xavier Bartlett",
+  "team": "Punjab Kings",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/PBKS/xavierbartlettipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Lockie Ferguson",
+  "team": "Punjab Kings",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/PBKS/lockiefergusonipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Vijaykumar Vyshak",
+  "team": "Punjab Kings",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/PBKS/vijaykumarvyshakipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Yash Thakur",
+  "team": "Punjab Kings",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/PBKS/yashthakuripl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Vishnu Vinod",
+  "team": "Punjab Kings",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/PBKS/vishnuvinodipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Cooper Connolly",
+  "team": "Punjab Kings",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/PBKS/cooperconnollyipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Ben Dwarshuis",
+  "team": "Punjab Kings",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/PBKS/bendwarshuisipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Vishal Nishad",
+  "team": "Punjab Kings",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/PBKS/vishalnishadipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Praveen Dubey",
+  "team": "Punjab Kings",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/PBKS/praveendubeyipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Virat Kohli",
+  "team": "Royal Challenger Bengaluru",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/RCB/viratkohliipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Rajat Patidar",
+  "team": "Royal Challenger Bengaluru",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/RCB/rajatpatidaripl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Devdutt Padikkal",
+  "team": "Royal Challenger Bengaluru",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/RCB/devduttpadikkalipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Phil Salt",
+  "team": "Royal Challenger Bengaluru",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/RCB/philsaltipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Jitesh Sharma",
+  "team": "Royal Challenger Bengaluru",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/RCB/jiteshsharmaipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Krunal Pandya",
+  "team": "Royal Challenger Bengaluru",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/RCB/krunalpandyaipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Swapnil Singh",
+  "team": "Royal Challenger Bengaluru",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/RCB/swapnilsinghipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Tim David",
+  "team": "Royal Challenger Bengaluru",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/RCB/timdavidipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Romario Shepherd",
+  "team": "Royal Challenger Bengaluru",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/RCB/romarioshepherdipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Jacob Bethell",
+  "team": "Royal Challenger Bengaluru",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/RCB/jacobbethellipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Josh Hazlewood",
+  "team": "Royal Challenger Bengaluru",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/RCB/joshhazlewoodipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Yash Dayal",
+  "team": "Royal Challenger Bengaluru",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/RCB/yashdayalipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Bhuvneshwar Kumar",
+  "team": "Royal Challenger Bengaluru",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/RCB/bhuvneshwarkumaripl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Nuwan Thushara",
+  "team": "Royal Challenger Bengaluru",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/RCB/nuwanthusharaipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Rasikh Salam",
+  "team": "Royal Challenger Bengaluru",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/RCB/rasikhsalamipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Abhinandan Singh",
+  "team": "Royal Challenger Bengaluru",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/RCB/abhinandansinghipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Suyash Sharma",
+  "team": "Royal Challenger Bengaluru",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/RCB/suyashsharmaipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Venkatesh Iyer",
+  "team": "Royal Challenger Bengaluru",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/RCB/venkateshiyeripl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Jacob Duffy",
+  "team": "Royal Challenger Bengaluru",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/RCB/jacobduffyipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Satvik Deswal",
+  "team": "Royal Challenger Bengaluru",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/RCB/satvikdeswalipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Mangesh Yadav",
+  "team": "Royal Challenger Bengaluru",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/RCB/mangeshyadavipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Jordan Cox",
+  "team": "Royal Challenger Bengaluru",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/RCB/jordancoxipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Vicky Ostwal",
+  "team": "Royal Challenger Bengaluru",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/RCB/vickyostwalipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Vihaan Malhotra",
+  "team": "Royal Challenger Bengaluru",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/RCB/vihaanmalhotraipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Kanishk Chouhan",
+  "team": "Royal Challenger Bengaluru",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/RCB/kanishkchouhanipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Yashasvi Jaiswal",
+  "team": "Rajasthan Royals",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/RR/yashasvijaiswalipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Riyan Parag",
+  "team": "Rajasthan Royals",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/RR/riyanparagipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Dhruv Jurel",
+  "team": "Rajasthan Royals",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/RR/dhruvjurelipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Ravindra Jadeja",
+  "team": "Rajasthan Royals",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/RR/ravindrajadejaipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Shimron Hetmyer",
+  "team": "Rajasthan Royals",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/RR/shimronhetmyeripl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Jofra Archer",
+  "team": "Rajasthan Royals",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/RR/jofraarcheripl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Sam Curran",
+  "team": "Rajasthan Royals",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/RR/samcurranipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Sandeep Sharma",
+  "team": "Rajasthan Royals",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/RR/sandeepsharmaipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Tushar Deshpande",
+  "team": "Rajasthan Royals",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/RR/tushardeshpandeipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Nandre Burger",
+  "team": "Rajasthan Royals",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/RR/nandreburgeripl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Kwena Maphaka",
+  "team": "Rajasthan Royals",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/RR/kwenamaphakaipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Vaibhav Suryavanshi",
+  "team": "Rajasthan Royals",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/RR/vaibhavsuryavanshiipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Donovan Ferreira",
+  "team": "Rajasthan Royals",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/RR/donovanferreiraipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Shubham Dubey",
+  "team": "Rajasthan Royals",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/RR/shubhamdubeyipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Yudhvir Singh Charak",
+  "team": "Rajasthan Royals",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/RR/yudhvirsinghcharakipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Lhuan-Dre Pretorius",
+  "team": "Rajasthan Royals",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/RR/lhuandrepetroriusipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Ravi Bishnoi",
+  "team": "Rajasthan Royals",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/RR/ravibishnoiipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Sushant Mishra",
+  "team": "Rajasthan Royals",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/RR/sushantmishraipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Yash Raj Punja",
+  "team": "Rajasthan Royals",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/RR/yashrajpunjaipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Vignesh Puthur",
+  "team": "Rajasthan Royals",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/RR/vigneshputhuripl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Ravi Singh",
+  "team": "Rajasthan Royals",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/RR/ravisinghipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Aman Rao",
+  "team": "Rajasthan Royals",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/RR/amanraoipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Brijesh Sharma",
+  "team": "Rajasthan Royals",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/RR/brijeshsharmaipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Adam Milne",
+  "team": "Rajasthan Royals",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/RR/adammilneipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Kuldeep Sen",
+  "team": "Rajasthan Royals",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/RR/kuldeepsenipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Pat Cummins",
+  "team": "Sunrises Hyderabad",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/SRH/patcumminsipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Travis Head",
+  "team": "Sunrises Hyderabad",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/SRH/travisheadipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Ishan Kishan",
+  "team": "Sunrises Hyderabad",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/SRH/ishankishanipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Heinrich Klaasen",
+  "team": "Sunrises Hyderabad",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/SRH/heinrichklaasenipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Abhishek Sharma",
+  "team": "Sunrises Hyderabad",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/SRH/abhisheksharmaipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Aniket Verma",
+  "team": "Sunrises Hyderabad",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/SRH/aniketvermaipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Smaran Ravichandran",
+  "team": "Sunrises Hyderabad",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/SRH/smaranravichandranipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Nitish Kumar Reddy",
+  "team": "Sunrises Hyderabad",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/SRH/nitishkumarreddyipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Kamindu Mendis",
+  "team": "Sunrises Hyderabad",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/SRH/kamindumendisipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Harsh Dubey",
+  "team": "Sunrises Hyderabad",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/SRH/harshdubeyipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Harshal Patel",
+  "team": "Sunrises Hyderabad",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/SRH/harshalpatelipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Brydon Carse",
+  "team": "Sunrises Hyderabad",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/SRH/brydoncarseipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Jaydev Unadkat",
+  "team": "Sunrises Hyderabad",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/SRH/jaydevunadkatipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Zeeshan Ansari",
+  "team": "Sunrises Hyderabad",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/SRH/zeeshanansariipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Eshan Malinga",
+  "team": "Sunrises Hyderabad",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/SRH/eshanmalingaipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Shivang Kumar",
+  "team": "Sunrises Hyderabad",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/SRH/shivangkumaripl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Sakib Hussain",
+  "team": "Sunrises Hyderabad",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/SRH/sakibhussainipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Onkar Tarmale",
+  "team": "Sunrises Hyderabad",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/SRH/onkartarmaleipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Amit Kumar",
+  "team": "Sunrises Hyderabad",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/SRH/amitkumaripl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Praful Hinge",
+  "team": "Sunrises Hyderabad",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/SRH/prafulhingeipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Krains Fuletra",
+  "team": "Sunrises Hyderabad",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/SRH/krainsfuletraipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Salil Arora",
+  "team": "Sunrises Hyderabad",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/SRH/salilaroraipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Liam Livingstone",
+  "team": "Sunrises Hyderabad",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/SRH/liamlivingstoneipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Shivam Mavi",
+  "team": "Sunrises Hyderabad",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/SRH/shivammaviipl26.jpg",
+  "category": "IPL26"
+},
+{
+  "name": "Jack Edwards",
+  "team": "Sunrises Hyderabad",
+  "image": "https://cdn.jsdelivr.net/gh/Shreyashg07/sixer-cards/IPL26/SRH/jackedwardsipl26.jpg",
+  "category": "IPL26"
+}
+
+
 ]
